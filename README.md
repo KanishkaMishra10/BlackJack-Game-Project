@@ -7,6 +7,10 @@ Created this as a Mini-Project in the initial semesters of College.
 This is a game between a player and the dealer (computer). 
 In this game, I have tried to replicate a casino by inserting a betting system and making use of face cards.
 
+# Languages: 
+1. C
+2. Python
+
 # About the game
 
 Blackjack is the American variant of a globally popular banking game known as Twenty-One, whose relatives include Pontoon and Vingt-et-Un. It is a comparing card game between one or more players and a dealer, where each player in turn competes against the dealer. Players do not compete against each other.
